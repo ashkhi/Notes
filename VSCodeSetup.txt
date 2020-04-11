@@ -1,0 +1,4 @@
+https://code.visualstudio.com/docs/cpp/config-linux
+
+Use this link for info about how to create, setup, build, debug and configure the VSCode projects.
+It has very good self explanatory notes with actual screenshots.
