@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/53485115/how-to-display-current-values-of-vs-codes-predefined-variables-such-as-work
+
+Use this link when you have to tackle viewing vscode env vars during build-launch phase.
